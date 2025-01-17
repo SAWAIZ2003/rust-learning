@@ -4,6 +4,7 @@ fn main(){
 }
 
 
+
 fn fibonacci(n: i32) -> i32 {
     let mut first = 0;
     let mut second = 1;
